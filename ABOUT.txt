@@ -1,0 +1,1 @@
+Evolving programs that construct parameterized analog filters: a mechanism-faithful reconstruction of Koza-style developmental genetic programming, with controlled experiments on conditional topology, component sizing, and generalization.
