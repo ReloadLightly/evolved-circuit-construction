@@ -2,6 +2,13 @@
 
 Sources checked during repository initialization. This is a short research aid, not a requirement to reread everything before coding.
 
+M1 revisited the two author-hosted papers and official DEAP GP/operator documentation.
+The implemented correspondence and all reconstruction choices are recorded in
+[MECHANISM.md](MECHANISM.md); observed outcomes are in [reports/m1.md](../reports/m1.md).
+ngspice was absent, so M1 used loaded analytic fixtures without an ngspice comparison.
+The Codex controls below describe initialization-time source checks and the
+launcher's request, not an independently observed active-session model/effort.
+
 ## Scientific mechanism
 
 1. Koza, J. R., Yu, J., Keane, M. A., and Mydlowec, W. (2000). *Use of Conditional Developmental Operators and Free Variables in Automatically Synthesizing Generalized Circuits using Genetic Programming.* https://www.genetic-programming.com/jkpdf/eh2000parameterizedfilter.pdf

@@ -1,0 +1,8 @@
+* Developed passive network; wires contracted
+* Vout = n4; logical fixture source/load preserved
+Vsource n1 0 AC 1
+Rsource n1 n2 1000
+Rload n4 0 1000
+C1 n2 n4 4.0000000000000007e-08
+.ac dec 100 100 1000000
+.end

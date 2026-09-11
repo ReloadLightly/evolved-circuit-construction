@@ -1,0 +1,1 @@
+Embryo(L(vDiv(vF2, vF1)), If(pF1, C(vF2), GroundRight(Wire, Wire)))

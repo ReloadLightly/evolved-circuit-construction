@@ -1,0 +1,1 @@
+[{"tree_index":1,"operator":"L","site":[2,3],"expression":1.0,"value":0.0031622776601683794},{"tree_index":3,"operator":"If","site":[3,4],"predicate":1.3010299956639813,"chosen":"then"},{"tree_index":5,"operator":"L","site":[3,4],"expression":2.9234448256610976,"value":0.2651214251782748}]

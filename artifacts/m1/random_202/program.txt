@@ -1,0 +1,1 @@
+Embryo(Parallel(Parallel(Wire, Wire), C(vF2)), C(vMul(vAdd(vF1, vF1), vSub(vF2, vF1))))

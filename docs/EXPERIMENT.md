@@ -1,6 +1,6 @@
 # Experimental design: conditional circuit construction
 
-**Status:** Pre-execution protocol. Numerical settings below are our reconstruction choices, not claims about Koza's historical settings. M1 implements the mechanism and the small H1 pilot. The larger study is planned, not automatically authorized by launching M1.
+**Status:** Frozen protocol; the M1 H1 pilot completed with six runs and 2,304 proposals. See [measured results](../reports/m1.md) and [implemented mechanism choices](MECHANISM.md). Numerical settings below are our reconstruction choices, not claims about Koza's historical settings. The larger study remains planned and was not run.
 
 ## 1. Question and unit of analysis
 
